@@ -1,5 +1,5 @@
 # Find-A-Team
-# ETHBerlin Zwei Teamfinding 2019
+# WyoHackathon Teamfinding 2019
 
 This repository contains an issue tracker that allows teams to find hackers, and hackers to find a team.
 
@@ -13,7 +13,7 @@ TODO:
 -   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 
 TODO:
-![ETHBerlin logo](https://ethberlinzwei.com/img/mainlogo.svg)
+![WyoHackathon logo](https://github.com/wyohackathon/wyohackathon.github.io/blob/master/assets/img/logos/events/stampede.svg)
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
 
