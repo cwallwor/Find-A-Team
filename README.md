@@ -5,13 +5,14 @@ This repository contains an issue tracker that allows teams to find hackers, and
 
 ## TL;DR
 
--   Looking for a team? Create an issue with `[LFT]`: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=hacker-wants-team.md)
--   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=team-wants-hacker.md)
--   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=idea-wants-team.md)
--   Browse existing inserations: [ethberlinzwei/Find-A-Team/issues](https://github.com/ethberlinzwei/Find-A-Team/issues)
+-   Looking for a team? Create an issue with `[LFT]`: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/cwallwor/Find-A-Team/issues/new?template=hacker-wants-team.md)
+-   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/cwallwor/Find-A-Team/issues/new?template=team-wants-hacker.md)
+-   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/cwallwor/Find-A-Team/issues/new?template=idea-wants-team.md)
+-   Browse existing inserations: [cwallwor/Find-A-Team/issues](https://github.com/cwallwor/Find-A-Team/issues)
+TODO:
 -   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 
-
+TODO:
 ![ETHBerlin logo](https://ethberlinzwei.com/img/mainlogo.svg)
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
@@ -44,8 +45,9 @@ Some people have great ideas, but don't have a team yet to help them bring it in
 ## Communication
 
 Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point. 
-
+TODO:
 1. You could meet in the `#buidlyourberlinteam` chat on Status: <https://status.im/>
+TODO:
 2. Or join the hacker chat room on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 
 You can also just directly leave your personal Riot/Status address in your tracking issue.
