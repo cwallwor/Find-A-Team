@@ -9,6 +9,7 @@ This repository contains an issue tracker that allows teams to find hackers, and
 -   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/cwallwor/Find-A-Team/issues/new?template=team-wants-hacker.md)
 -   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/cwallwor/Find-A-Team/issues/new?template=idea-wants-team.md)
 -   Browse existing inserations: [cwallwor/Find-A-Team/issues](https://github.com/cwallwor/Find-A-Team/issues)
+
 TODO:
 -   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 
@@ -44,9 +45,11 @@ Some people have great ideas, but don't have a team yet to help them bring it in
 
 ## Communication
 
-Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point. 
+Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point.
+
 TODO:
 1. You could meet in the `#buidlyourberlinteam` chat on Status: <https://status.im/>
+
 TODO:
 2. Or join the hacker chat room on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 
